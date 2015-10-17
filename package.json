@@ -1,0 +1,11 @@
+{
+  "name": "drain_c2d_messages",
+  "version": "0.0.1",
+  "private": true,
+  "main": "drain_c2d_messages.js",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.4.2",
+    "azure-iot-device": "^1.0.0-preview.3"
+  }
+}
